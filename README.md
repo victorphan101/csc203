@@ -1,1 +1,2 @@
-# csc203
+# CSC203 - Project Based Object Oriented Programming
+Lab and Assignments for Winter 2022
